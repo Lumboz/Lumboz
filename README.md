@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lumboz
+- 👋 Hi, I’m @Elogio
 - 👀 I’m interested in progrmming
 - 🌱 I’m currently learning javascript
 
